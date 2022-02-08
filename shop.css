@@ -1,5 +1,10 @@
 /* 아래에 코드를 작성하시오. */
 
+.card:hover{
+  cursor: pointer;
+  transform: scale(105%);
+}
+
 .w-90 {
   width: 90%;
 }
@@ -18,4 +23,12 @@
   left: 7%;
   width: 8%;
   height: 8%;
+}
+
+.location-heart:hover {
+  transform: scale(110%);
+}
+
+.bi-zoom-in:hover {
+  transform: scale(120%);
 }
