@@ -1,0 +1,21 @@
+/* 아래에 코드를 작성하시오. */
+
+.w-90 {
+  width: 90%;
+}
+
+.w-200px {
+  width: 200px;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.location-heart {
+  position: absolute;
+  top: 5%;
+  left: 7%;
+  width: 8%;
+  height: 8%;
+}
